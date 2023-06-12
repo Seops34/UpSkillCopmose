@@ -11,6 +11,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.seop.upskillcopmose.ch03.ButtonExample
+import com.seop.upskillcopmose.ch03.CardExample
 import com.seop.upskillcopmose.ui.theme.UpSkillCopmoseTheme
 
 class MainActivity : ComponentActivity() {
@@ -23,7 +24,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    ButtonExample()
+                    CardExample("", "", "")
                 }
             }
         }
