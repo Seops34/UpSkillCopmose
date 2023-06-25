@@ -1,4 +1,4 @@
-package com.seop.upskillcopmose.ch04
+package com.seop.upskillcopmose.part1.ch04
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize

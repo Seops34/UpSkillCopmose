@@ -1,4 +1,4 @@
-package com.seop.upskillcopmose.ch04
+package com.seop.upskillcopmose.part1.ch04
 
 import android.util.Log
 import androidx.compose.foundation.layout.Column

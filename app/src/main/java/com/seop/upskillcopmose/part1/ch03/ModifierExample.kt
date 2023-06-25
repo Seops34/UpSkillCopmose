@@ -1,4 +1,4 @@
-package com.seop.upskillcopmose.ch03
+package com.seop.upskillcopmose.part1.ch03
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable

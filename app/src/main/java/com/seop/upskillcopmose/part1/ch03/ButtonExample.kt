@@ -1,4 +1,4 @@
-package com.seop.upskillcopmose.ch03
+package com.seop.upskillcopmose.part1.ch03
 
 import android.widget.Toast
 import androidx.compose.foundation.BorderStroke

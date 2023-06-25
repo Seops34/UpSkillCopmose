@@ -1,4 +1,4 @@
-package com.seop.upskillcopmose.ch05
+package com.seop.upskillcopmose.part1.ch05
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.material3.Button

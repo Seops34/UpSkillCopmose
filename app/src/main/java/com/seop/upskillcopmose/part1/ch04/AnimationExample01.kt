@@ -1,4 +1,4 @@
-package com.seop.upskillcopmose.ch04
+package com.seop.upskillcopmose.part1.ch04
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.animateColorAsState

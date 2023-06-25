@@ -1,4 +1,4 @@
-package com.seop.upskillcopmose.ch05
+package com.seop.upskillcopmose.part1.ch05
 
 import retrofit2.http.GET
 import retrofit2.http.Path
